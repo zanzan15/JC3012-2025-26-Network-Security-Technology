@@ -13,7 +13,7 @@
 类型：课程作业（Coursework）
 权重：占课程总成绩的 30%
 
-# 📄 作业任务说明
+## 📄 作业任务说明
 
 这是一个小组作业，每组需由 2–4 名学生合作（特殊情况最多 5 人）。
 任务是撰写一篇关于密钥交换协议攻击的技术论文。
@@ -26,7 +26,7 @@ D-H 易受中间人攻击（Man-in-the-Middle Attack）；
 
 RSA 易受计时攻击（Timing Attack）。
 
-# 在本次作业中，你们需要完成以下任务：
+## 在本次作业中，你们需要完成以下任务：
 
 解释一种针对 D-H 的攻击技术；
 
@@ -44,7 +44,7 @@ RSA 易受计时攻击（Timing Attack）。
 
 对 D-H 和 RSA 的防御方法进行比较。
 
-# 📑 论文格式要求
+## 📑 论文格式要求
 
 论文结构：
 
@@ -66,7 +66,7 @@ RSA 易受计时攻击（Timing Attack）。
 
 作者贡献（Authors’ Contribution）
 
-# 格式要求：
+## 格式要求：
 
 使用 IEEE 会议论文格式（双栏）；
 
@@ -82,7 +82,7 @@ RSA 易受计时攻击（Timing Attack）。
 
 保存为 PDF 文件上传。
 
-💻 代码提交要求
+## 💻 代码提交要求
 
 可使用 Java、Python 或 C++ 实现：
 
@@ -94,7 +94,7 @@ D-H 与 RSA 协议；
 
 将所有代码打包为一个 ZIP 文件上传。
 
-🚫 关于 GenAI 工具（如 ChatGPT）使用规定
+## 🚫 关于 GenAI 工具（如 ChatGPT）使用规定
 
 允许级别：Level 0 – 不允许使用。
 即：
@@ -103,7 +103,7 @@ D-H 与 RSA 协议；
 
 ChatGPT、MS Copilot、DALL·E、GitHub Copilot、Google Gemini、Perplexity、DeepSeek 等。
 
-🧩 学习与评估目标
+## 🧩 学习与评估目标
 
 完成本作业后，学生应能够：
 
@@ -117,7 +117,7 @@ ChatGPT、MS Copilot、DALL·E、GitHub Copilot、Google Gemini、Perplexity、D
 
 比较两种协议的攻击与防御差异。
 
-🧮 评分标准（University of Aberdeen Common Grading Scale）
+## 🧮 评分标准（University of Aberdeen Common Grading Scale）
 等级	描述
 A	杰出的知识与理解，极高的逻辑性与创造力
 B	良好的知识掌握，解决熟悉问题的能力强
@@ -125,7 +125,7 @@ C	基本概念掌握良好，推理与计算大体正确
 D	能完成常规任务但理论理解有限
 E	对基本概念掌握不牢固，推理常出错
 F	缺乏基本理论知识，无法作出合理论证或计算
-📬 提交与延期政策
+## 📬 提交与延期政策
 
 提交作业即表示你声明该作品为原创且符合大学学术诚信政策。
 
